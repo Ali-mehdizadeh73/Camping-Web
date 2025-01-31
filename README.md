@@ -14,8 +14,7 @@ Usage
 To use this project, open the index.html file in your web browser.
 
 Technologies Used
-HTML (99.2%)
-CSS
+HTML CSS (99.2%)
 JavaScript (0.8%)
 Contributing
 Currently, there are no specific contributing guidelines. Feel free to fork the repository and submit pull requests.
